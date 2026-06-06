@@ -52,7 +52,7 @@ export default function App() {
     } catch (err) {
       setError(
         err.message === 'Failed to fetch'
-          ? 'Cannot connect to the server. Make sure the FastAPI backend is running on port 8000.'
+          ? 'Cannot connect to the server. Make sure the FastAPI backend is running on port 8080.'
           : err.message
       );
     } finally {

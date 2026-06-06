@@ -370,3 +370,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Author
 
 **Avi Pant** — [GitHub](https://github.com/AviPant) · [Email](mailto:AviPant092@gmail.com)
+
+
+
+to run the backend command is: python app.py 
+Alternatively, you can run it directly using uvicorn:
+
+to run the frontend command is : cd frontend 
+                                npm run dev
